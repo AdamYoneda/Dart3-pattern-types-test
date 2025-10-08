@@ -1,0 +1,15 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "subpattern"
+  ],
+  "ignorePaths": [
+  ],
+  "languageSettings": [
+    {
+      "languageId": "dart",
+      "locale": "en"
+    }
+  ]
+}

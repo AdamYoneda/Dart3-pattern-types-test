@@ -1,0 +1,18 @@
+# mise configuration for Dart SDK version management
+# https://mise.jdx.dev/
+
+[tools]
+dart = "3.7.2"
+
+[env]
+# Dart SDK環境変数（必要に応じて設定）
+# DART_SDK = "{{config_root}}/.mise/installs/dart/3.7.2"
+
+[settings]
+# プロジェクトルートで自動的にバージョンを適用
+experimental = true
+
+# このプロジェクトに入ったときに自動でDart 3.7.2を使用
+# グローバルのDartより優先させる
+always_keep_download = true
+legacy_version_file = false

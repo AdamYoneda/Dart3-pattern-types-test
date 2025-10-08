@@ -1,0 +1,7 @@
+{
+    "dart.flutterSdkPath": "/Users/adamyoneda/.local/share/mise/installs/flutter/3.29.3-stable",
+    "debug.javascript.defaultRuntimeExecutable": {
+        "pwa-node": "/Users/adamyoneda/.local/share/mise/shims/node"
+    },
+    "dart.sdkPath": "/Users/adamyoneda/.local/share/mise/installs/dart/3.7.2"
+}
