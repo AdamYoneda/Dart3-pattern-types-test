@@ -2,10 +2,11 @@
   "version": "0.2",
   "language": "en",
   "words": [
+    "asyncvalue",
+    "riverpod",
     "subpattern"
   ],
-  "ignorePaths": [
-  ],
+  "ignorePaths": [],
   "languageSettings": [
     {
       "languageId": "dart",
